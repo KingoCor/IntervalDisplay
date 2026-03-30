@@ -1,0 +1,4 @@
+bin
+obj
+*.dll
+cp_plugin.sh
